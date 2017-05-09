@@ -2,7 +2,7 @@
 #define TOROI_NEW_H
 
 #include "Arduino.h"
-//123
+//2017/5/9 新增新功能 
 class gyroscope_mpu6050 
         { 
               public:
